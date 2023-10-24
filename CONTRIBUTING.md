@@ -132,3 +132,10 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+
+- #### Name: [Bhavya Barai](https://www.linkedin.com/in/bhavyabarai)
+
+- Place: Rajkot, Gujarat
+- Bio: Competitive Programmer | MERN Stack Developer | Intern @BharatIntern,@CodeClause,@Internsavy
+- Affiliation : Problem Solver
+- GitHub: [Bhavya Barai](https://github.com/Bhavya2004)
